@@ -3,8 +3,8 @@
 |-----|------|------|
 |Misc | Group members attended tutorial sessions|4|
 |Distrbuted dev model: | decisions made by unanmyous vote}|4
-|| group meetings had a round robin speaking order|2
-|| group meetings had a moderator that managed the round robin|2
+|| group meetings had a round robin speaking order|4
+|| group meetings had a moderator that managed the round robin|4
 || group meeting moderator rotated among  the group|2
 || code conforms to some packaging standard|4
 || code has can be downloaded from some standard package manager|4
