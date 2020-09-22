@@ -13,11 +13,12 @@ Video Link : https://youtu.be/tMoKtcqqByg
 - Python 3.6+
 - jupyter notebook
 
-## Running Instructions
-
-
-- Please download Stack Overflow Data Dump from here (https://archive.org/download/stackexchange/softwareengineering.stackexchange.com.7z:) and unpack it into a folder ```Data_Dump```
-- Please open Stack_Overflow_Data_Dump_Preprocessing.ipynb in jupyter notebook and run the cells sequentially
+## Running Instructions for Data Preprocessing
+- Please install virtual env and create a new environment using ```virtualenv venv```
+- Activate using ```source venv/bin/activate```
+- Download requirements.txt and run ```pip install -r requirements.txt```
+- Please download Stack Overflow Data Dump from here (https://archive.org/download/stackexchange/softwareengineering.stackexchange.com.7z:) and unpack it into a folder ```Data_Dump/```
+- Please open Stack_Overflow_Data_Dump_Preprocessing.ipynb in jupyter notebook in the same directory and run the cells sequentially to obtain Pandas Dataframe usable for further analysis.
 
 ## Screenshots
 
